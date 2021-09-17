@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividad4</string>
+    <string name="textView_name">Listado de llamadas</string>
+    <string name="textView2_name">Datos</string>
+</resources>
